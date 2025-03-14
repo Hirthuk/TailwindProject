@@ -14,7 +14,7 @@ const App = () => {
     <main className="relative">
       <Nav></Nav>
       <section className="xl:p-36 wide:padding-r padding-b"><Hero /></section>
-      <section className="padding bg-slate-400"><PopularProducts /></section>
+      <section className="padding w-full"><PopularProducts /></section>
       <section className="padding"><SuperQuality /></section>
       <section className="padding-x py-10"><Services /></section>
       <section className="padding"><SpecialOffer /></section>
