@@ -58,5 +58,8 @@
   .shoe-8-mid{
     @apply w-full h-auto flex justify-center align-middle
   }
+  .service-box {
+    @apply max-md:flex-col 
+  }
   
 }
