@@ -7,7 +7,7 @@ export const navLinks = [
     { href: "#products", label: "Products" },
     { href: "#contact-us", label: "Contact Us" },
 ];
-
+// oii
 export const shoes = [
     {
         thumbnail: thumbnailShoe1,
