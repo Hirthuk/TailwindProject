@@ -1,6 +1,6 @@
 import React from 'react'
 import { headerLogo } from '../assets/images'
-import { navLinks } from "../Constants/index"
+import { navLinks } from "../constantsFolder/index"
 import { hamburger } from '../assets/icons'
 
 const Nav = () => {

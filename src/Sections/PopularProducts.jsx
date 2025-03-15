@@ -1,4 +1,4 @@
-import { products } from "../constants/index"
+import { products } from "../constantsFolder/index"
 import { star } from "../assets/icons"
 
 const PopularProducts = () => {

@@ -1,5 +1,5 @@
 import { star } from "../assets/icons";
-import { reviews } from "../constants/index";
+import { reviews } from "../constantsFolder";
 
 const CustomerReviews = () => {
   return (

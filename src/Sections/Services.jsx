@@ -1,5 +1,5 @@
 import React from 'react'
-import { services } from '../constants/index'
+import { services } from '../constantsFolder/index'
 const Services = () => {
   return (
     <section>
