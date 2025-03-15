@@ -1,5 +1,5 @@
 import { star } from "../assets/icons";
-import { reviews } from "../constants";
+import { reviews } from "../constants/index";
 
 const CustomerReviews = () => {
   return (
